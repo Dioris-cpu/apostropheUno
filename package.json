@@ -1,0 +1,22 @@
+{
+  "name": "apostropheuno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dioris-cpu/apostropheUno.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dioris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dioris-cpu/apostropheUno/issues"
+  },
+  "homepage": "https://github.com/Dioris-cpu/apostropheUno#readme"
+}
